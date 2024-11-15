@@ -24,7 +24,7 @@ Este projeto tem como objetivo apresentar um portfólio online interativo, desen
 ## Visualização da Aplicação: 🔗
 
 ![Texto alternativo](assets/meu-gif.gif)
-> Link da visualisação da aplicação: https://keven-costa.github.io/carros-bolados/pages/
+> Link da visualisação da aplicação: https://keven-costa.github.io/trabalho-final/
 
 
 
@@ -35,7 +35,7 @@ Este projeto tem como objetivo apresentar um portfólio online interativo, desen
 No terminal, clone o projeto: 
 
 ```
-git@github.com:Keven-Costa/carros-bolados.git
+git@github.com:Keven-Costa/trabalho-final.git
 ```
 
 ## Licença 
